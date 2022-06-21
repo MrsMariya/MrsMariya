@@ -2,7 +2,7 @@
 - My name is Mariya
 - 🌱  I’m currently learning React / Redux
 - 📫 How to reach me: linkedin (link is below the text)/ skype / discord (@MrsMariya)#5663
- ## **[Linkedin](linkedin.com/in/mariya-pastyshonak-650932224)**
+ ## **[Linkedin](https://www.linkedin.com/in/mariya-pastyshonak-650932224/)**
 ## **[Skype](https://join.skype.com/invite/AgNG7JfJapnU)**
 ## **[CV](https://mrsmariya.github.io/rsschool-cv/index.html)**
 
